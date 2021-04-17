@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CEntidades\bin\Debug\CEntidades.dll
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CEntidades\bin\Debug\CEntidades.pdb
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CEntidades\obj\Debug\CEntidades.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CEntidades\obj\Debug\CEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CEntidades\obj\Debug\CEntidades.dll
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CEntidades\obj\Debug\CEntidades.pdb

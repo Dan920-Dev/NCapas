@@ -1,0 +1,17 @@
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\obj\Debug\CPresentacion.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\obj\Debug\CPresentacion.FrmPrincipal.resources
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\obj\Debug\CPresentacion.Properties.Resources.resources
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\obj\Debug\CPresentacion.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\obj\Debug\CPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\bin\Debug\CPresentacion.exe.config
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\bin\Debug\CPresentacion.exe
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\bin\Debug\CPresentacion.pdb
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\bin\Debug\CNegocio.dll
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\bin\Debug\CNegocio.pdb
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\obj\Debug\CPresentacion.csproj.CopyComplete
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\obj\Debug\CPresentacion.exe
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\obj\Debug\CPresentacion.pdb
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\bin\Debug\CDatos.dll
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\bin\Debug\CEntidades.dll
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\bin\Debug\CDatos.pdb
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CPresentacion\bin\Debug\CEntidades.pdb

@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CNegocio\bin\Debug\CNegocio.dll
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CNegocio\bin\Debug\CNegocio.pdb
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CNegocio\bin\Debug\CDatos.dll
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CNegocio\bin\Debug\CEntidades.dll
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CNegocio\bin\Debug\CDatos.pdb
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CNegocio\bin\Debug\CEntidades.pdb
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CNegocio\obj\Debug\CNegocio.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CNegocio\obj\Debug\CNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CNegocio\obj\Debug\CNegocio.csproj.CopyComplete
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CNegocio\obj\Debug\CNegocio.dll
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CNegocio\obj\Debug\CNegocio.pdb

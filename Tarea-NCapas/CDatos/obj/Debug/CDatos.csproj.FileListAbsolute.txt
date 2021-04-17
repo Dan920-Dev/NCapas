@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CDatos\bin\Debug\CDatos.dll
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CDatos\bin\Debug\CDatos.pdb
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CDatos\bin\Debug\CEntidades.dll
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CDatos\bin\Debug\CEntidades.pdb
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CDatos\obj\Debug\CDatos.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CDatos\obj\Debug\CDatos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CDatos\obj\Debug\CDatos.csproj.CopyComplete
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CDatos\obj\Debug\CDatos.dll
+C:\Users\Daniel\Desktop\WorkSpace\NCapas\Tarea-NCapas\CDatos\obj\Debug\CDatos.pdb
